@@ -1,16 +1,25 @@
-## Hi there 👋
+# Connor Martin
 
-<!--
-**ConnorMartin862/ConnorMartin862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Almost your typical University of Michigan CS Junior. Almost.
 
-Here are some ideas to get you started:
+I build things that actually work — a deployed 2D platformer with custom 
+physics systems, a full-stack mobile app, a relational database engine from 
+scratch. I like hard problems and I have a bad habit of finishing them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building Now
+- 🎮 **Shattered Continuum** — browser-based 2D platformer in JavaScript/Kaboom.js
+- 📱 **StudyBuddy** — full-stack mobile app for finding study partners at universities
+
+Outside of code:
+- 🏃 Ran the Boston Marathon in 2:40 (top 800 finishers)
+- 📖 Published a sci-fi novel at 15 (we won't discuss the quality)
+- 🦅 Eagle Scout
+- 🏊 Part-time lifeguard
+- 🧠 Trivia MVP
+- ✈️ Avid traveler
+
+Currently looking to build something meaningful this summer.
+
+🌐 [Portfolio](https://connormartin862.github.io)
+💼 [LinkedIn](https://linkedin.com/in/connormm)
+📧 connormartinxc23@gmail.com
