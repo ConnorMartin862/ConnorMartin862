@@ -6,6 +6,9 @@ I build things that actually work — a deployed 2D platformer with custom
 physics systems, a full-stack mobile app, a relational database engine from 
 scratch. I like hard problems and I have a bad habit of finishing them.
 
+## Where I'm Working Now
+- **Miller Industries LLC** - Working as a Software Development Intern, working in both front-end and back-end production code.
+
 ## What I'm Building Now
 - 🎮 **Shattered Continuum** — browser-based 2D platformer in JavaScript/Kaboom.js
 - 📱 **StudyBuddy** — full-stack mobile app for finding study partners at universities
